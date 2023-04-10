@@ -276,6 +276,11 @@
           "value": "#6750a3",
           "type": "color",
           "description": "#6750A3"
+        },
+        "primary-hover": {
+          "value": "#846fb8",
+          "type": "color",
+          "description": "#846fb8"
         }
       }
     },
