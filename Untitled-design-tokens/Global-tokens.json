@@ -272,7 +272,7 @@
     },
     "ui": {
       "color": {
-        "primary": {
+        "primary-default": {
           "value": "#6750a3",
           "type": "color",
           "description": "#6750A3"
@@ -281,6 +281,11 @@
           "value": "#846fb8",
           "type": "color",
           "description": "#846fb8"
+        },
+        "primary-default-copy": {
+          "value": "#4b3b78",
+          "type": "color",
+          "description": "#4e3d7b"
         }
       }
     },
