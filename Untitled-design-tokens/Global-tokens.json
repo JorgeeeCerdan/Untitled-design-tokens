@@ -270,25 +270,6 @@
         "description": "#1E3A8A"
       }
     },
-    "ui": {
-      "color": {
-        "primary-default": {
-          "value": "#6750a3",
-          "type": "color",
-          "description": "#6750A3"
-        },
-        "primary-hover": {
-          "value": "#846fb8",
-          "type": "color",
-          "description": "#846fb8"
-        },
-        "primary-active": {
-          "value": "#4b3b78",
-          "type": "color",
-          "description": "#4e3d7b"
-        }
-      }
-    },
     "Gradient": {
       "A": {
         "value": "linear-gradient(180deg, #7eaeff 0%, #fca6e9 100%)",
